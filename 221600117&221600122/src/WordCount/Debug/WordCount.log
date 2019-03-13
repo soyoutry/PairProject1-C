@@ -1,9 +1,0 @@
-﻿  stdafx.cpp
-  WordCount.cpp
-  sortWord.cpp
-c:\users\syt\desktop\221600117&221600122\wordcount\wordcount\sortword.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
-  countWord.cpp
-  countLine.cpp
-  countChar.cpp
-  正在生成代码...
-  WordCount.vcxproj -> C:\Users\SYT\Desktop\221600117&221600122\WordCount\Debug\WordCount.exe
