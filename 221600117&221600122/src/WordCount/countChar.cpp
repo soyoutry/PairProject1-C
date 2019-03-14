@@ -6,7 +6,7 @@ int countChar(char *fn)
 	fopen_s(&file, fn, "r");
 	if (file == NULL)
 	{
-		printf("ÎÄ¼ş²»´æÔÚ!");
+		printf("æ–‡ä»¶ä¸å­˜åœ¨");
 		exit(1);
 	}
 	while (fgetc(file) != EOF)
